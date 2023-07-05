@@ -1,0 +1,15 @@
+button:hover{
+    color: white;
+    background-color: red;
+    cursor: pointer;
+}
+
+button:active{
+    background-color: pink;
+    color: red;
+    cursor: pointer;
+}
+
+body{
+    text-align: center;
+}
